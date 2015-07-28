@@ -1,4 +1,2 @@
-# Angularjs
-
-AngulatJs
-=========
+AngularJs Code
+==============
